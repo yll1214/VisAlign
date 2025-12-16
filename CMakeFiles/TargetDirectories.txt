@@ -1,0 +1,3 @@
+/home/jetson/siamfc/test/CMakeFiles/siamfc_det.dir
+/home/jetson/siamfc/test/CMakeFiles/edit_cache.dir
+/home/jetson/siamfc/test/CMakeFiles/rebuild_cache.dir
